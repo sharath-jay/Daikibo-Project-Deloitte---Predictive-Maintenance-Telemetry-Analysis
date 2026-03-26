@@ -1,1 +1,1 @@
-# Daikibo-Project-Deloitte---Predictive-Maintenance-Telemetry-Analysis
+# Daikibo-Project-for-Deloitte-Predictive-Maintenance-Telemetry-Analysis
